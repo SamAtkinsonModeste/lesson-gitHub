@@ -1,1 +1,1 @@
-# lesson-gitHub
+# Git Skills
